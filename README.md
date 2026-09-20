@@ -1,6 +1,6 @@
-# hynix-iTAP · Python / EDA 실습자료
+# hynix-iTAP 실습자료
 
-고려대학교–SK하이닉스 산학 교육 프로그램 **“In-Line ICBV 학습을 통한 CapL 예측 Model 개발”**의 주차별 교육자료입니다.
+고려대학교–SK하이닉스 산학 교육 프로그램 “In-Line ICBV 학습을 통한 CapL 예측 Model 개발”의 주차별 교육자료입니다.
 
 이번 1주차 목표는 Python 문법 전체를 배우는 것이 아니라 다음 데이터 분석 workflow를 스스로 수행하는 것입니다.
 
